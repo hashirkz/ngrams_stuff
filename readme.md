@@ -17,10 +17,12 @@ here weights refers to the json parameters akin to neural net weights
 ```
 
 ### example generated text  
-- .txt data                                         ->  `./text_data/jp_songs`  
-- n **hyperparameter length of ngrams**             ->  7 
-- k **length of extra text to be generated**        ->  256  
-- seed text                                         -> "zuuto kokoro"  
+| parameter                                  | value                |
+| ------------------------------------------ | -------------------- |
+| data                                       | ./text_data/jp_songs |
+| n **hyperparameter length of ngrams**      | 7                    |
+| k **length of extra text to be generated** | 256                  |
+| seed_text                                  | zuuto kokoro         |
 
 
 the lovely output haha    
